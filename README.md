@@ -76,7 +76,7 @@
      <a href="https://en.wikipedia.org/wiki/visual studio 2022" target="_blank"> <img style="width:12%;height:12%;margin:10%;" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="Visual studio 2022"/>
      </a>
      <a href="https://en.wikipedia.org/wiki/Arduino" target="_blank">
-       <img style="width:12%;height:12%;margin:10%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV4OeA05Db9Rm6mE1fZP-fs2LczVcXa31N6qHGAWnwWC6d4gZirgFvmU9WCxPpqAC-RKQ&usqp=CAU" alt="Arduino" /> 
+       <img style="width:12%;height:12%;margin:10%;" src="https://i1.wp.com/makezine.com/wp-content/uploads/2015/03/o4888.jpg?fit=1750%2C1750&ssl=1" alt="Arduino" /> 
      </a>
      
 </div>
