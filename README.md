@@ -3,4 +3,4 @@
 
 <h1 align="center" style="color:black;">Hey  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , It's Harshil Ramani here...</h1>
 <h3 align="center" id="you__Can__give__animation" style="color:rgb(7, 167, 7);">Welcome to my Repository ! <br> <h1 id=you__Can__give__animation" style="color:rgb(58, 57, 57);">I'm a passionate C/C++ & FrontEnd Developer.</h1></h3>
-<center><img style="width:auto;height:auto;" src="https://cdn-icons-png.flaticon.com/512/256/256672.png" alt="India"></center>
+<center><img style="width:10%;height:10%;" src="https://cdn-icons-png.flaticon.com/512/256/256672.png" alt="India"></center>
