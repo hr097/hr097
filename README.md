@@ -15,6 +15,9 @@
       <li>
         <a href="#connect-with-me">🔗Connect with me : </a>
       </li>
+      <li>
+        <a href="#views-and-followers">🧿 Views and Followers 📍 </a>
+      </li>
     </ul>
     <img style="max-width:auto;max-height:70%;border:5px solid white; margin:20px;" src="https://i.pinimg.com/736x/cb/c3/d6/cbc3d6bdbd5d5677272ae4f5fbcefdcf.jpg" alt="hr097">
   </div>
@@ -43,14 +46,17 @@
      <br>
       <center>
         <li style="list-style-type: none;" align="center">
-          <strong>🎭 Fun Facts 🎭</strong>
+              <strong>🎭 Fun Facts 🎭</strong>
         </li>
-     </center>
-     <br>
-     <li>   <strong>cin >> Enthusiastic 🔭 >> Never give up 🎯 >> Knowledge ** share = 🏆>> Work professionally 😎; </strong></li>
+        <br>
+        <li>   
+	     <strong> cin >> Enthusiastic 🔭 >> Never give up 🎯 >> Knowledge ** share = 🏆>> Work professionally 😎; </strong>
+        </li>
+	</center>
+	 <br>
+	<br>
      </ul>
-     
-     
+    
  <h2 style="display: inline-block;" id="languages-and-tools">
   <img src="https://cdn-icons-png.flaticon.com/512/759/759823.png" style="width:3%;height:3%;margin:20%; margin-bottom:0px;" alt="🚀"> Languages 
   and Tools :</h2>
@@ -82,3 +88,33 @@
 </div>
 	
 <br>
+
+<p align="center">
+         <a href="https://github.com/hr097/github-readme-streak-stats">
+             <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hr097&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+         </a>
+     </p>
+     <h2 id="my-github-stats" id="my-github-stats">📊 My Github Stats</h2>
+<br>
+    <a href="https://github.com/hr097/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=hr097&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="hr097's github stats" /></a>
+    <a href="https://github.com/hr097/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hr097&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="hr097's github Top languages" /></a>
+<br>
+  <b>Note:</b> <p>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p> 
+<br>
+
+<h2 id="connect-with-me" id="connect-with-me"> 🔗 Connect with me : </h2>
+
+<p align="center">
+
+<a href="http://linkedin.com/in/harshil-ramani-2b528920b" target="_blank"> <img style="width:12%;height:12%;margin:10%;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin : "/> </a>
+<a href="https://instagram.com/_harshil_ramani__?utm_medium=copy_link" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram : " style="width:12%;height:12%;margin:10%;"/> </a>
+<a href="https://t.me/professor9777" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram : " style="width:12%;height:12%;margin:10%;" /> </a>
+
+</p>
+
+<h2 id="views-and-followers" > 🧿 Views and Followers 📍</h2>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+</a>
+
+<a href="https://github.com/hr097?tab=followers"><img src="https://img.shields.io/github/followers/hr097?label=Followers&style=social" alt="GitHub Badge"></a>
