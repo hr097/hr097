@@ -30,7 +30,7 @@
   Welcome to my Repository !  
   <br> 
   <h1 id="you__Can__give__animation" style="color:rgb(58, 57, 57);" align="center">
-    I'm a passionate C/C++ & FrontEnd(Js) Developer.<img style="width:10%;height:10%;" align="center" src="https://cdn-icons-png.flaticon.com/512/256/256672.png" alt="India">
+    I'm a passionate C/C++ & FrontEnd(Js) Developer.<img style="width:7%;height:7%;" align="center" src="https://cdn-icons-png.flaticon.com/512/256/256672.png" alt="India">
   </h1>
 </h3>
 
