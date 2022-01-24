@@ -7,7 +7,7 @@
       </li>
       <li>
         <a
-           href="#languages-and-tools%3A">🧬Languages and 🛠Tools : </a>
+           href="#languages-and-tools">🧬Languages and 🛠Tools : </a>
       </li>
       <li>
         <a href="#my-github-stats">📊 My Github Stats : </a>
