@@ -73,7 +73,7 @@
      <a href="https://en.wikipedia.org/wiki/git" target="_blank"> <img style="width:12%;height:12%;margin:10%;" src="https://camo.githubusercontent.com/87205c8a0904b29e3e32375dbb34f625930891aee0ecdcfa3926ccc78f367a70/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f6769742e706e67" alt="git" style="width:100px;height:75px"/> </a>   
      <a href="https://en.wikipedia.org/wiki/github" target="_blank"> <img  style="width:12%;height:12%;margin:10%;"  src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291667.png?token=exp=1643041089~hmac=e9de850c09067ad29d2ee59f2a2b6105" alt="Github"/> </a> 
      <a href="https://en.wikipedia.org/wiki/visual studio code" target="_blank"> <img style="width:12%;height:12%;margin:10%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual studio code" /> </a> 
-     <a href="https://en.wikipedia.org/wiki/visual studio 2022" target="_blank"> <img style="width:12%;height:12%;margin:10%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdXXgUVsDTyeTG1N85Bf-vpUpJe-BYsEbHxMFKb5ePZhx1bwL4pMyYX4LGQSLtp2rBMWc&usqp=CAU" alt="Visual studio 2022"/>
+     <a href="https://en.wikipedia.org/wiki/visual studio 2022" target="_blank"> <img style="width:12%;height:12%;margin:10%;" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="Visual studio 2022"/>
      </a>
      <a href="https://en.wikipedia.org/wiki/Arduino" target="_blank">
        <img style="width:12%;height:12%;margin:10%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV4OeA05Db9Rm6mE1fZP-fs2LczVcXa31N6qHGAWnwWC6d4gZirgFvmU9WCxPpqAC-RKQ&usqp=CAU" alt="Arduino" /> 
