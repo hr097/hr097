@@ -1,18 +1,10 @@
-<!-----------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
- *  Licensed under the MIT License. See License.txt in the project root for license information.
- *--------------------------------------------------------------------------------------------*/
--->
-
 <!DOCTYPE html>
-
 <html>
-
    <head>
    <title>hr097 README.md</title>
    <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
    <style>
-   @import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@500&display=swap");
+   @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@500&display=swap');
    </style>
 
    <style>
@@ -569,7 +561,7 @@
 
 <p align="center">
 
-<a href="http://linkedin.com/in/harshil-ramani-2b528920b" target="_blank"> <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1643027159~hmac=94129c1b42826b9c879874de7e4bf65b" alt="Linkedin : " style="max-width:50px;max-height:50px;margin:10px; margin-bottom:0px;"/> </a>
+<a href="http://linkedin.com/in/harshil-ramani-2b528920b" target="_blank"> <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1643030585~hmac=07300a769f17184f4ba9ad5dd03c5426" alt="Linkedin : " style="max-width:50px;max-height:50px;margin:10px; margin-bottom:0px;"/> </a>
 <a href="https://instagram.com/_harshil_ramani__?utm_medium=copy_link" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram : " style="max-width:50px;max-height:50px;margin:10px; margin-bottom:0px;"/> </a>
 <a href="https://t.me/professor9777" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram : " style="max-width:50px;max-height:50px;margin:10px; margin-bottom:0px;" /> </a>
 
