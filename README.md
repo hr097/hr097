@@ -33,7 +33,7 @@
     I'm a passionate C/C++ & FrontEnd(Js) Developer from <img style="width:7%;height:7%;" align="center" src="https://cdn-icons-png.flaticon.com/512/256/256672.png" alt="India">
   </h1>
 </h3>
-     <h2 id="%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F-about-me" id="about-me">👩‍💻 About Me </h2>
+     <h2 id="about-me" id="about-me">👩‍💻 About Me </h2>
      <ul>
      <li>   I’m currently working on <strong>Personal Projects🚀 for My CV</strong></li>
      <li>   I consistently  Prefer learning <strong> Web Applications Related Technologies⚙ </strong></li>  
