@@ -1,4 +1,4 @@
-<style>
+<style type="text/css">
   .mynav
 {
 	border-top: 5px outset grey;
