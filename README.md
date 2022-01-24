@@ -1,15 +1,13 @@
-<style type="text/css">
-  .mynav
-{
-	border-top: 5px outset grey;
+
+<center>
+  <nav class="table-of-contents "
+       
+       style="border-top: 5px outset grey;
 	border-bottom: 5px outset grey;
 	border-left: 5px inset grey;
 	border-right: 5px inset grey;
-	background-color:transparent;
-}
-</style>
-<center>
-  <nav class="table-of-contents mynav">
+	background-color:transparent;">
+	  
     <ul style="list-style-type:none;" id="first-link">
       <li>
         <a href="#%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F-about-me">👩‍💻 About Me : </a>
