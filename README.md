@@ -1,12 +1,7 @@
 
 <center>
-  <nav class="table-of-contents "
-       
-       style="border-top: 5px outset grey;
-	border-bottom: 5px outset grey;
-	border-left: 5px inset grey;
-	border-right: 5px inset grey;
-	background-color:transparent;">
+  <nav class="table-of-contents " style="border-top: 5px outset grey;border-bottom: 5px outset grey;border-left: 5px inset grey;border-right: 5px inset grey;">
+
 	  
     <ul style="list-style-type:none;" id="first-link">
       <li>
