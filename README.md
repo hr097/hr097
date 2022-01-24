@@ -4,14 +4,14 @@
  *--------------------------------------------------------------------------------------------*/
 -->
 <!--
-<!DOCTYPE html>
+<!DOCTYPE html>-->
 
 <html>
 
    <head>
    <title>hr097 README.md</title>
    <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
--->
+
    <style>
    @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@500&display=swap');
    </style>
@@ -509,12 +509,12 @@
       max-width: 80px;
     }
     </style>
-<!--
+
 </head>
 
 <body>
 
--->
+
     <div class="content-wrapper">
 
      <center><nav class="table-of-contents mynav"><ul style="list-style-type:none;" id="first-link"><li><a href="#%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F-about-me">👩‍💻 About Me : </a></li><li><a href="#%F0%9F%9A%80-languages-and-tools%3A">🧬Languages and 🛠Tools : </a></li><li><a href="#%F0%9F%93%8A-my-github-stats">📊 My Github Stats : </a></li><li><a href="#connect-with-me%3A">🔗Connect with me : </a></li></ul></nav><img style="max-width:100%;max-height:70%;border:5px solid white; margin:20px;" src="https://i.pinimg.com/736x/cb/c3/d6/cbc3d6bdbd5d5677272ae4f5fbcefdcf.jpg" alt='hr097'></center>
