@@ -1,6 +1,6 @@
 
 <center>
-  <div class="table-of-contents"  align="center">
+  <div  align="center">
     <ul style="list-style-type:none;">
       <li>
         <a href="#about-me">👩‍💻 About Me : </a>
@@ -30,7 +30,16 @@
   Welcome to my Repository !  
   <br> 
   <h1 id="you__Can__give__animation" style="color:rgb(58, 57, 57);" align="center">
-    I'm a passionate C/C++ & FrontEnd(Js) Developer.<img style="width:7%;height:7%;" align="center" src="https://cdn-icons-png.flaticon.com/512/256/256672.png" alt="India">
+    I'm a passionate C/C++ & FrontEnd(Js) Developer from <img style="width:7%;height:7%;" align="center" src="https://cdn-icons-png.flaticon.com/512/256/256672.png" alt="India">
   </h1>
 </h3>
-
+     <h2 id="%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F-about-me" id="about-me">👩‍💻 About Me </h2>
+     <ul>
+     <li>   I’m currently working on <strong>Personal Projects🚀 for My CV</strong></li>
+     <li>   I consistently  Prefer learning <strong> Web Applications Related Technologies⚙ </strong></li>  
+     <li>   Always looking for collaboration on <strong>OpenSource Projects 🤝🏻👨🏻‍🤝‍👨🏻👩🏻‍🤝‍🧑🏻</strong></li>
+     <li>   All of my Projects🗂 are available at <strong><a href="https://github.com/hr097?tab=repositories">My GitHub</a></strong></li>
+     <li>   You can reach me 📧 <strong><a href="mailto:harshilramani9777@gmail.com">harshilramani9777@gmail.com</a></strong></li>
+     <br><center><li style="list-style-type: none;"><strong>🎭 Fun Facts 🎭</strong></li></center><br>
+     <li>   <strong>cin >> Enthusiastic 🔭 >> Never give up 🎯 >> Knowledge ** share = 🏆>> Work professionally 😎; </strong></li>
+     </ul>
