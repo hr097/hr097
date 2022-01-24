@@ -41,9 +41,9 @@
 
 <p align="center">
 
-<a href="http://linkedin.com/in/harshil-ramani-2b528920b" target="_blank"> <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1643030585~hmac=07300a769f17184f4ba9ad5dd03c5426" alt="Linkedin : " style="max-width:50px;max-height:50px;margin:10px; margin-bottom:0px;"/> </a>
-<a href="https://instagram.com/_harshil_ramani__?utm_medium=copy_link" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram : " style="max-width:50px;max-height:50px;margin:10px; margin-bottom:0px;"/> </a>
-<a href="https://t.me/professor9777" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram : " style="max-width:50px;max-height:50px;margin:10px; margin-bottom:0px;" /> </a>
+<a href="http://linkedin.com/in/harshil-ramani-2b528920b" target="_blank"> <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1643030585~hmac=07300a769f17184f4ba9ad5dd03c5426" alt="Linkedin : " style="max-width:10px;max-height:10px;margin:10px; margin-bottom:0px;"/> </a>
+<a href="https://instagram.com/_harshil_ramani__?utm_medium=copy_link" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram : " style="max-width:10px;max-height:10px;margin:10px; margin-bottom:0px;"/> </a>
+<a href="https://t.me/professor9777" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram : " style="max-width:10px;max-height:10px;margin:10px; margin-bottom:0px;" /> </a>
 
 </p>
 
