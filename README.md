@@ -1,7 +1,6 @@
 
 <center>
-  <nav class="table-of-contents">
-	  
+  <nav class="table-of-contents" style="border:30px solid green;">
     <ul style="list-style-type:none;" id="first-link">
       <li>
         <a href="#%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F-about-me">👩‍💻 About Me : </a>
