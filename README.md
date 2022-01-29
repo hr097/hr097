@@ -65,6 +65,7 @@
     
 <div align="left">
 <a href="https://https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img style="width:12%;height:12%;" src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg" alt="C language"/> </a>
+	  <a href="https://en.wikipedia.org/wiki/Embedded C" target="_blank"> <img style="width:12%;height:12%;margin:10%;" src="https://res.cloudinary.com/practicaldev/image/fetch/s--tfPjDW9B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/lkdzrlpt71qh8ohzgjt9.jpg" alt="Embedded C"/>   </a> 
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img style="width:12%;height:12%;" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++ language"/> </a>
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"> <img style="width:12%;height:12%;margin-left:10%;" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C# language" /> </a> 
      <a href="https://en.wikipedia.org/wiki/Java" target="_blank"> <img style="width:12%;height:12%;" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java Language"/> </a>
@@ -84,6 +85,10 @@
      </a>
      <a href="https://en.wikipedia.org/wiki/Arduino" target="_blank">
        <img style="width:12%;height:12%;margin:10%;" src="https://i1.wp.com/makezine.com/wp-content/uploads/2015/03/o4888.jpg?fit=1750%2C1750&ssl=1" alt="Arduino" /> 
+     </a>
+      <a href="https://www2.keil.com/mdk5/uvision/" target="_blank">
+       <img style="width:12%;height:12%;margin:10%;" src="https://user-images.githubusercontent.com/29084184/128668555-59d96329-2e64-4370-bfdc-89bf7a12aea8.png" 
+	    alt="Keil Vision 5" /> 
      </a>
      
 </div>
