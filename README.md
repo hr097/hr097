@@ -35,7 +35,7 @@
   <h1 id="you__Can__give__animation" style="color:rgb(58, 57, 57);" align="center">
     I'm a passionate C/C++ & FrontEnd(Js) Developer from <img style="width:7%;height:7%;" align="center" src="https://cdn-icons-png.flaticon.com/512/256/256672.png" alt="India">
   </h1>
-</h3>
+</h3><!--
      <h2 id="about-me" id="about-me">👩‍💻 About Me </h2>
      <ul>
      <li>   I’m currently working on <strong>Personal Projects🚀 for My CV</strong></li>
@@ -57,7 +57,7 @@
 	 <br>
 	<br>
      </ul>
-    
+    -->
  <h2 style="display: inline-block;" id="languages-and-tools">
   <img src="https://cdn-icons-png.flaticon.com/512/759/759823.png" style="width:3%;height:3%;margin:20%; margin-bottom:0px;" alt="🚀"> Languages 
   and Tools :</h2>
