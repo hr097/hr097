@@ -97,7 +97,7 @@
 
 <p align="center">
          <a href="https://github.com/hr097/github-readme-streak-stats">
-             <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hr097&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+             <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harshil Ramani's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hr097&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
          </a>
      </p>
      <h2 id="my-github-stats" id="my-github-stats">📊 My Github Stats</h2>
