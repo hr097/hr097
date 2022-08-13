@@ -89,6 +89,14 @@
        <img style="width:12%;height:12%;margin:10%;" src="https://user-images.githubusercontent.com/29084184/128668555-59d96329-2e64-4370-bfdc-89bf7a12aea8.png" 
 	    alt="Keil Vision 5" /> 
      </a>
+      <a href="" target="_blank">
+       <img style="width:12%;height:12%;margin:10%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" 
+	    alt="Python" /> 
+     </a>
+ <a href="" target="_blank">
+       <img style="width:12%;height:12%;margin:10%;" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" 
+	    alt="Mysql" /> 
+     </a>
      
 </div>
 	
@@ -118,7 +126,7 @@
 
 <h2 id="views-and-followers" > 🧿 Views and Followers 📍</h2>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?username=hr097">
 </a>
 
 <a href="https://github.com/hr097?tab=followers"><img src="https://img.shields.io/github/followers/hr097?label=Followers&style=social" alt="GitHub Badge"></a>
