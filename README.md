@@ -69,7 +69,7 @@
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img style="width:12%;height:12%;" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++ language"/> </a>
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"> <img style="width:12%;height:12%;margin-left:10%;" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C# language" /> </a> 
      <a href="https://en.wikipedia.org/wiki/Java" target="_blank"> <img style="width:12%;height:12%;" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java Language"/> </a>
-     <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img style="width:12%;height:12%;" src="https://cdn-icons-png.flaticon.com/512/337/337953.png" alt="SQL Language"/> </a> 
+     <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img style="width:12%;height:12%;" src="https://cdn-icons-png.flaticon.com/512/337/337953.png" alt="SQL"/> </a> 
 	 <a href="https://en.wikipedia.org/wiki/HTML5rg/wiki/VB_.net" target="_blank">   <img style="width:12%;height:12%;"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQFyQxBfnQJoWB-YCt6OBA-_NYW8p6dkW92qshDpbeljhH3e9gr-P7b0AH1R6xJ5OtcoI&usqp=CAU" alt="VB .NET"/> </a> 
 	 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"> <img style="width:12%;height:12%;" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"/> </a> 
 	 <a href="https://en.wikipedia.org/wiki/CSS3" target="_blank"> <img style="width:12%;height:12%;" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"/> </a> 
@@ -79,7 +79,6 @@
      <a href="https://en.wikipedia.org/wiki/jQuery" target="_blank"> <img style="width:12%;height:12%;margin:10%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToCzhpr8bSpemVkodXqVeeGgtrAHOmsBt1sZWEDlBwmaUcTMzOCydWzhXh3JNr7wCGyyo&usqp=CAU" alt="jQuery"/>   </a> 
      <a href="https://en.wikipedia.org/wiki/Php" target="_blank"> <img style="width:12%;height:12%;margin:10%;" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="Php"/>   </a> 
      <a href="https://en.wikipedia.org/wiki/git" target="_blank"> <img style="width:12%;height:12%;margin:10%;" src="https://camo.githubusercontent.com/87205c8a0904b29e3e32375dbb34f625930891aee0ecdcfa3926ccc78f367a70/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f6769742e706e67" alt="git" style="width:100px;height:75px"/> </a>   
-     <a href="https://en.wikipedia.org/wiki/github" target="_blank"> <img  style="width:12%;height:12%;margin:10%;"  src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291667.png?token=exp=1643041089~hmac=e9de850c09067ad29d2ee59f2a2b6105" alt="Github"/> </a> 
      <a href="https://en.wikipedia.org/wiki/visual studio code" target="_blank"> <img style="width:12%;height:12%;margin:10%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual studio code" /> </a> 
      <a href="https://en.wikipedia.org/wiki/visual studio 2022" target="_blank"> <img style="width:12%;height:12%;margin:10%;" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="Visual studio 2022"/>
      </a>
