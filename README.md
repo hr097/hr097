@@ -33,7 +33,7 @@
   Welcome to my Repository !  
   <br> 
   <h1 id="you__Can__give__animation" style="color:rgb(58, 57, 57);" align="center">
-    I'm a passionate C/C++ & JavaScript Developer from <img style="width:7%;height:7%;" align="center" src="https://cdn-icons-png.flaticon.com/512/256/256672.png" alt="India">
+    I'm a passionate C/C++ & Fullstack Developer from <img style="width:7%;height:7%;" align="center" src="https://cdn-icons-png.flaticon.com/512/256/256672.png" alt="India">
   </h1>
 </h3><!--
      <h2 id="about-me" id="about-me">👩‍💻 About Me </h2>
