@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, Myself Harshil Ramani</h1>
-<h3 align="center"> Enthusiatic & Passionate C/C++ & FULL STACK Developer From <img style="width:7%;height:7%;" align="center" src="https://cdn-icons-png.flaticon.com/512/256/256672.png" alt="INDIA"></h3>
+<h3 align="center"> Enthusiatic & Ambitious C/C++ & FULL STACK Developer From <img style="width:7%;height:7%;" align="center" src="https://cdn-icons-png.flaticon.com/512/256/256672.png" alt="INDIA"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hr097&label=Profile%20views&color=0e75b6&style=flat" alt="hr097" /> </p>
 <p align="left"> <a href="https://github.com/hr097?tab=followers"><img src="https://img.shields.io/github/followers/hr097?label=Followers&style=social" alt="GitHub Badge"></a> </p>
