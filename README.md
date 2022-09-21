@@ -14,7 +14,7 @@
 
 - 📫 you can reach me via my email =  **harshilramani9777@gmail.com**
 
-- 🚀 System Designer🧩, Developer & Passionate **Team Leader🌟 **
+- 🚀 System Designer🧩, Developer & Passionate **Team Leader🌟**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
