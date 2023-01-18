@@ -65,6 +65,8 @@
 <h2 id="my-github-stats" id="my-github-stats">📊 My Github Stats</h2>
 <br>
 <a href="https://github.com/hr097/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=hr097&show_icons=true&theme=dark" alt="hr097's github stats" /></a>
+    <br>
+    <br>
 <a href="https://github.com/hr097/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hr097&layout=compact" alt="hr097's github Top languages"/></a>
 <br>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hr097&" alt="hr097" /></p> -->
