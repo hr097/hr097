@@ -3,10 +3,10 @@
 <h1 align="center">Hi 👋, Myself Harshil Ramani</h1>
 <h3 align="center"> Software Development Engineer From <img style="width:7%;height:7%;" align="center" src="https://cdn-icons-png.flaticon.com/512/256/256672.png" alt="INDIA"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hr097&label=Profile%20views&color=0e75b6&style=flat" alt="hr097" /> </p>
-<p align="left"> <a href="https://github.com/hr097?tab=followers"><img src="https://img.shields.io/github/followers/hr097?label=Followers&style=social" alt="GitHub Badge"></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hr097&label=Profile%20views&color=0e75b6&style=flat" alt="hr097" /> </p>
+<p align="center"> <a href="https://github.com/hr097?tab=followers"><img src="https://img.shields.io/github/followers/hr097?label=Followers&style=social" alt="GitHub Badge"></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **WEB APPLICATION DEVELOPMENT**
 
@@ -16,15 +16,20 @@
 
 - 🚀 System Designer🧩, Developer & Passionate **Team Leader🌟**
 
+<br>
+<br>
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://t.me/thenameishr" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="hr097" height="30" width="30" /></a>
-<!--<a href="https://www.leetcode.com/hr097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hr097" height="30" width="40" /></a> -->
-<a href="http://linkedin.com/in/harshil-ramani-2b528920b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/darshan-balar-4302141bb/" height="30" width="30" /></a>
-<a href="https://instagram.com/_harshil_ramani__?utm_medium=copy_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hr097" height="30" width="30" /></a>
+    &nbsp; 
+<a href="http://linkedin.com/in/harshil-ramani-2b528920b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/darshan-balar-4302141bb/" height="30" width="30" /></a>    
+<a href="https://instagram.com/_harshil_ramani__?utm_medium=copy_link" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hr097" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<br>
+
 <div align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="70" height="70"/> </a>
@@ -66,9 +71,9 @@
 <div align="center">
 <!-- <h2 id="my-github-stats" id="my-github-stats">📊 My Github Stats</h2>
 <br>
-<a href="https://github.com/hr097/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=hr097&show_icons=true&theme=transparent" alt="hr097's github stats" /></a>
+<a href="https://github.com/hr097/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=hr097&show_icons=true&theme=transparent" alt="hr097's github stats" /></a>-->
     <br>
-    <br> -->
+    <br> 
 <a href="https://github.com/hr097/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hr097&layout=compact" alt="hr097's github Top languages"/></a>
 <br>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hr097&" alt="hr097" /></p> -->
