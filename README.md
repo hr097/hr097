@@ -1,33 +1,44 @@
 
+<h1  align="center">Hi there 👋, I'm Harshil</h1>
+<h4 align="center" style="color:blue;">Welcome to my Github Profile😋</h4>
 
-<h1 align="center">Hi 👋, Myself Harshil Ramani</h1>
-<h3 align="center"> Software Development Engineer From <img style="width:7%;height:7%;" align="center" src="https://cdn-icons-png.flaticon.com/512/256/256672.png" alt="INDIA"></h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hr097&label=Profile%20views&color=0e75b6&style=flat" alt="hr097" /> </p>
-<p align="center"> <a href="https://github.com/hr097?tab=followers"><img src="https://img.shields.io/github/followers/hr097?label=Followers&style=social" alt="GitHub Badge"></a> </p>
 
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **WEB APPLICATION DEVELOPMENT**
-
-- 💬 Ask me about **C++/.NET/Web/IoT/Software Development**
-
-- 📫 you can reach me via my email =  **harshilramani9777@gmail.com**
-
-- 🚀 System Designer🧩, Developer & Passionate **Team Leader🌟**
-
-<br>
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://t.me/thenameishr" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="hr097" height="30" width="30" /></a>
-    &nbsp; 
-<a href="http://linkedin.com/in/harshil-ramani-2b528920b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/darshan-balar-4302141bb/" height="30" width="30" /></a>    
-<a href="https://instagram.com/_harshil_ramani__?utm_medium=copy_link" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hr097" height="30" width="30" /></a>
+<p align="center" >
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Computer+Science+Student+💻;A+Passionate+Software+Engineer+🧑‍💻;Motivating+Team+Leader+🪟;Data%20Science%20|%20AI%20and%20ML%20|%20Software%20Development%20|%20CloudTech%20;Active%20learner+❤️;&center=true&width=550&height=50"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=hr097" width=120px alt="Harshil Ramani" /> </div>
+<br>
+<img align="right" alt="Coding" width="400" src="code.gif">
+
+🔭 I’m currently working as **Freelancer**
+
+🌱 I’m currently looking forward to learn & explore **Data Science || AI and ML || Enterprise software development ||CloudTech and Automation(Embedded & IoT)**
+
+👨‍💻 I’m looking to collaborate on **open source/commercial projects**
+
+😎 Fun Facts : ▪️ I neve give up instead I change my logic  and perspective to set things at right"
+ 
+📫 How to reach me : **harshilramani9777@gmail.com**
+
+⚡ Currently I am trying to improve my problem solving skills by learning and exploring various IT sectors.
+
+🧑‍💻 want to Know more about me ? <a href="https://harshilramani.tech" target="_blank"><b>My Portfolio</b></a>
+<br />
+<br />
+<hr />
+<p align="center"><em>If you're still reading, why not follow me ?? Let's Connect 🤝 !!</em></p>
+<hr><br>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a style="margin:20px;" href="https://t.me/thenameishr" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="hr097" height="80" width="80" /></a>
+    &nbsp; 
+<a style="margin:20px;" href="http://linkedin.com/in/harshil-ramani-2b528920b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/darshan-balar-4302141bb/" height="80" width="80" /></a>    
+<a style="margin:20px;" href="https://instagram.com/_harshil_ramani__?utm_medium=copy_link" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hr097" height="80" width="80" /></a>
+</p>
+<br><hr><br>
+<h3 align="center">Languages and Tools:</h3>
 <br>
 
 <div align="left">
@@ -58,23 +69,12 @@
     <a href="https://en.wikipedia.org/wiki/visual studio 2022" target="_blank" rel="noreferrer">   <img width="70" height="70"  src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="Visual Studio"/> </a> 
     <a href="https://en.wikipedia.org/wiki/Arduino" target="_blank" rel="noreferrer">   <img width="70" height="70"  src="https://i1.wp.com/makezine.com/wp-content/uploads/2015/03/o4888.jpg?fit=1750%2C1750&ssl=1" alt="Arduino"/> </a> 
 </div>
+
+<br />
+<hr />
+<img height="150px" width="1000px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=hr097&layout=compact&hide_border=false&theme=algolia&bg_color=#10217B&langs_count=6&hide=jupyter%20notebook,tex,css,php">
 <br>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hr097&show_icons=true&locale=en&layout=compact" alt="hr097" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hr097&show_icons=true&locale=en" alt="hr097" /></p>
- -->
- <div align="center">
-    <h2 id="my-github-streak" id="my-github-streak">🔥 My Github Streak</h2>
-    <a href="https://github.com/hr097/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harshil Ramani's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hr097&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</div>
-<div align="center">
-<!-- <h2 id="my-github-stats" id="my-github-stats">📊 My Github Stats</h2>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hr097&theme=algolia" alt="Harshil Ramani hr097" /></p>
 <br>
-<a href="https://github.com/hr097/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=hr097&show_icons=true&theme=transparent" alt="hr097's github stats" /></a>-->
-    <br>
-    <br> 
-<a href="https://github.com/hr097/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hr097&layout=compact" alt="hr097's github Top languages"/></a>
-<br>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hr097&" alt="hr097" /></p> -->
-</div>
+
+  <p  align="center" ><em style="font-style:italic;font-weight:bolc;">&#169;<b>created by @Harshil Ramani</b></em></p>
