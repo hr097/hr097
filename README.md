@@ -18,7 +18,7 @@
 
 👨‍💻 I’m looking to collaborate on **open source/commercial projects**
 
-😎 Fun Facts : ▪️ I neve give up instead I change my logic  and perspective to set things at right"
+😎 Fun Facts : ▪️ I never give up instead I change my logic  and perspective to set things at right"
  
 📫 How to reach me : **harshilramani9777@gmail.com**
 
