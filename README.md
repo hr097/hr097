@@ -2,12 +2,6 @@
 <h1  align="center">Hi there 👋, I'm Harshil</h1>
 <h4 align="center" style="color:blue;">Welcome to my Github Profile😋</h4>
 
-
-
-<p align="center" >
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=An%20Information%20Technology%20Student%20💻;A%20Passionate%20Software%20Engineer%20🧑‍💻;Motivating%20Team%20Leader%20🪟;Data%20Science%20|%20Business%20Analytics%20 .NET%20|%20Software%20Development%20|%20Cloud%20Technologies;Business%20Development+❤️;&center=true&width=550&height=50"></a>
-</p>
-
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=hr097" width=120px alt="Harshil Ramani" /> </div>
 <br>
 <img align="right" alt="Coding" width="400" src="code.gif">
