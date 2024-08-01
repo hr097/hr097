@@ -5,16 +5,16 @@
 
 
 <p align="center" >
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Computer+Science+Student+💻;A+Passionate+Software+Engineer+🧑‍💻;Motivating+Team+Leader+🪟;Data%20Science%20|%20AI%20and%20ML%20|%20Software%20Development%20|%20CloudTech%20;Active%20learner+❤️;&center=true&width=550&height=50"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=An+ Information+Technology+Student+💻;A+Passionate+Software+Engineer+🧑‍💻;Motivating+Team+Leader+🪟;Data%20Science%20|%20Business%20Analytics%20 .NET%20|%20Software%20Development%20|%20Cloud%20Technologies;Business%20Development+❤️;&center=true&width=550&height=50"></a>
 </p>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=hr097" width=120px alt="Harshil Ramani" /> </div>
 <br>
 <img align="right" alt="Coding" width="400" src="code.gif">
 
-🔭 I’m currently working as **Freelancer**
+🔭 I’m currently working as **Freelancer** in Melbourne Australia 📍🇦🇺
 
-🌱 I’m currently looking forward to learn & explore **Data Science || AI and ML || Enterprise software development ||CloudTech and Automation(Embedded & IoT)**
+🌱 I’m currently looking forward to learn & explore **Data Science || Business Analytics || Enterprise software development ||CloudTech and Automation(Embedded & IoT)**
 
 👨‍💻 I’m looking to collaborate on **open source/commercial projects**
 
