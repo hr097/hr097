@@ -5,7 +5,7 @@
 
 
 <p align="center" >
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=An+ Information+Technology+Student+💻;A+Passionate+Software+Engineer+🧑‍💻;Motivating+Team+Leader+🪟;Data%20Science%20|%20Business%20Analytics%20 .NET%20|%20Software%20Development%20|%20Cloud%20Technologies;Business%20Development+❤️;&center=true&width=550&height=50"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=An+Information+Technology+Student+💻;A+Passionate+Software+Engineer+🧑‍💻;Motivating+Team+Leader+🪟;Data%20Science%20|%20Business%20Analytics%20 .NET%20|%20Software%20Development%20|%20Cloud%20Technologies;Business%20Development+❤️;&center=true&width=550&height=50"></a>
 </p>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=hr097" width=120px alt="Harshil Ramani" /> </div>
