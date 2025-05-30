@@ -148,7 +148,7 @@ input, textarea {
 html { font-family: var(--ff-poppins); }
 
 body { background: var(--smoky-black);
- background-image: url("../images/london_tower_bridge.JPG");
+ background-image: url("../images/img2.jpg");
  background-repeat: no-repeat;
  background-size: cover;
 }
@@ -345,7 +345,9 @@ main {
   width: max-content;
   padding: 3px 12px;
   border-radius: 8px;
+  border: 1px solid aliceblue ;
 }
+
 
 .info_more-btn {
   position: absolute;
