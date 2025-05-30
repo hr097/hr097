@@ -1,0 +1,858 @@
+<!--
+  
+  Name: Rushi Savaliya 
+  Student Id:
+  Subject:
+  Topic: Portfolio Website
+  Technology Stack: HTML5, CSS3 , JavaScript , Bootstrap5
+  Type: 
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="theme-color" content="#000000" />
+
+  <!-- Search Engine use --->
+  <meta name="Comubridge" content="Rushi Savaliya"/>
+  <meta name="description" content="Portfolio Management website for software developers,Engineers and coders."/>
+  <meta name="key words" content="Rushi,Savaliya,The University of West London,London,United Kingdom,Software,developer,coders,github,portfolio management,linkedin"/>
+
+  <meta name="google-site-verification" content="YKLJXdgbsyIvqhRuoHDyFMLeN-tjRe3W1rL5w13AULg" />
+
+
+
+  <title>Rushi Savaliya | Portfolio</title>
+
+  <!--
+    - favicon
+  -->
+  <link rel="shortcut icon" href="./assets/images/favicon.jpg" type="image/x-icon">
+
+  <!--
+    - custom css link
+  -->
+  <link rel="stylesheet" href="./assets/css/style.css">
+
+  <!--
+    - google font link
+  -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <!--
+    - #MAIN
+  -->
+
+  <main>
+
+    <!--
+      - #SIDEBAR
+    -->
+
+    <aside class="sidebar" data-sidebar>
+
+      <div class="sidebar-info">
+
+        <figure class="avatar-box">
+          <img src="./assets/images/avatar-5.jpg" alt="Rushi Savaliya" width="80">
+        </figure>
+
+        <div class="info-content">
+          <h1 class="name" title="Rushi Savaliya">Rushi Savaliya</h1>
+
+          <p class="title">Information Technology Student</p>
+        </div>
+
+        <button class="info_more-btn" data-sidebar-btn>
+          <span>Show Contacts</span>
+
+          <ion-icon name="chevron-down"></ion-icon>
+        </button>
+
+      </div>
+
+      <div class="sidebar-info_more">
+
+        <div class="separator"></div>
+
+        <ul class="contacts-list">
+
+          <li class="contact-item">
+
+            <div class="icon-box">
+              <ion-icon name="mail-outline"></ion-icon>
+            </div>
+
+            <div class="contact-info">
+              <p class="contact-title">Email</p>
+
+              <a href="mailto:rushisavaliya573@gmail.com" class="contact-link">rushisavaliya573@gmail.com</a>
+            </div>
+
+          </li>
+
+          <li class="contact-item">
+
+            <div class="icon-box">
+              <ion-icon name="phone-portrait-outline"></ion-icon>
+            </div>
+
+            <div class="contact-info">
+              <p class="contact-title">Connect</p>
+
+              <a href="https://www.linkedin.com/in/rushi-savaliya-4793a0252/" class="contact-link">LinkedIn</a>
+            </div>
+
+          </li>
+
+          <li class="contact-item">
+
+            <div class="icon-box">
+              <ion-icon name="calendar-outline"></ion-icon>
+            </div>
+            <div class="contact-info">
+              <p class="contact-title">GitHub</p>
+
+              <a href="https://github.com/rushisavaliya573" class="contact-link">GitHub</a>
+            </div>
+
+          </li>
+
+          <li class="contact-item">
+
+            <div class="icon-box">
+              <ion-icon name="location-outline"></ion-icon>
+            </div>
+
+            <div class="contact-info">
+              <p class="contact-title">Location</p>
+
+              <address>West London University</address>
+            </div>
+
+          </li>
+
+        </ul>
+
+        <div class="separator"></div>
+
+      </div>
+
+    </aside>
+
+
+    <!--
+      - #main-content
+    -->
+
+    <div class="main-content">
+
+      <!--
+        - #NAVBAR
+      -->
+
+      <nav class="navbar">
+
+        <ul class="navbar-list">
+
+          <li class="navbar-item">
+            <button class="navbar-link  active" data-nav-link>Home</button>
+          </li>
+
+          <li class="navbar-item">
+            <button class="navbar-link" data-nav-link>CV</button>
+          </li>
+
+          <li class="navbar-item">
+            <button class="navbar-link" data-nav-link>Journal</button>
+          </li>
+
+          <li class="navbar-item">
+            <button class="navbar-link" data-nav-link>About</button>
+          </li>
+
+          <li class="navbar-item">
+            <button class="navbar-link" data-nav-link>Contact</button>
+          </li>
+
+        </ul>
+
+      </nav>
+
+      <!--
+        - #HOME
+      -->
+
+      <article class="home active" data-page="home">
+
+        <header>
+          <h2 class="h2 article-title">Portfolio</h2>
+        </header>
+
+        <section class="about-text">
+          <img  id="mainpic" src="./assets/images/london_tower_bridge.jpg" alt="London Tower Bridge"   style="height:500px;width:840px;" class="responsive">
+        </section>
+        
+        <!--
+          - University Information
+        -->
+
+        <section class="about-text">
+
+          <h3 class="h3 testimonials-title">University Information</h3>
+          <p>
+            The University of West London is a public research university in the United Kingdom with campuses in Ealing, Brentford, and in Reading, Berkshire. The university has roots in 1860, when the Lady Byron School was founded, later Ealing College of Higher Education.
+          </p>
+        </section>
+
+
+        <!--
+          - transition modal
+        -->
+
+        <div class="modal-container" data-modal-container>
+
+          <div class="overlay" data-overlay></div>
+
+          <section class="testimonials-modal">
+
+            <button class="modal-close-btn" data-modal-close-btn>
+              <ion-icon name="close-outline"></ion-icon>
+            </button>
+
+          </section>
+
+        </div>
+
+
+      </article>
+
+
+
+
+
+      <!--
+        - #CV
+      -->
+
+      <article class="cv" data-page="cv">
+
+        <header>
+          <h2 class="h2 article-title">MY CV</h2>
+        </header>
+
+        <section class="timeline">
+
+          <div class="title-wrapper">
+            <div class="icon-box">
+              <ion-icon name="book-outline"></ion-icon>
+            </div>
+
+            <h3 class="h3">Education</h3>
+          </div>
+
+          <ol class="timeline-list">
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">The University of West London</h4>
+
+              <span>2022 — 2025</span>
+
+              <p class="timeline-text">
+               Pursuing Bachelor in Information Technology with diverse and advanced computer science subjects knowledge with an consistent GPA.
+              </p>
+
+            </li>
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">Ashadeep Group of Schools,Surat</h4>
+
+              <span>2019 — 2021</span>
+
+              <p class="timeline-text">
+               Accomplished higher secondary education under CBSE Board of Gujarat Government with
+               A2 Result Grade.
+              </p>
+
+            </li>
+
+          </ol>
+
+        </section>
+
+        <section class="timeline">
+
+          <div class="title-wrapper">
+            <div class="icon-box">
+              <ion-icon name="book-outline"></ion-icon>
+            </div>
+
+            <h3 class="h3">Experience</h3>
+          </div>
+
+          <ol class="timeline-list">
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">Student & Free Lancer</h4>
+
+              <span>2023 — Present</span>
+
+              <p class="timeline-text">
+                 Currently I am student of Information Technology and looking for freelancing projects in java,python and Frontend Development.
+              </p>
+
+            </li>
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">Intern</h4>
+
+              <span>2021 — 2022</span>
+
+              <p class="timeline-text">
+               I have joined a company named as CodeX Solutions in surat India as an intern of java,python and frontend development.
+              </p>
+
+            </li>
+
+           
+
+          </ol>
+
+        </section>
+
+        <section class="skill">
+
+          <h3 class="h3 skills-title">My skills</h3>
+
+          <ul class="skills-list content-card">
+
+            <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">HTML5 CSS3 & BOOTSTRAP5</h5>
+                <data value="100">100%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 100%;"></div>
+              </div>
+
+            </li>
+
+            <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">Java</h5>
+                <data value="99">99%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 99%;"></div>
+              </div>
+
+            </li>
+
+            <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">Python</h5>
+                <data value="85">85%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 85%;"></div>
+              </div>
+
+            </li>
+
+            <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">Soft Skill Communication</h5>
+                <data value="95">95%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 95%;"></div>
+              </div>
+
+            </li>
+
+          </ul>
+
+        </section>
+
+      </article>
+
+
+
+
+
+      <!--
+        - #JOURNAL
+      -->
+
+      <article class="journal" data-page="journal">
+
+        <header>
+          <h2 class="h2 article-title">Student Journal</h2>
+        </header>
+
+        <section class="projects">
+
+          <ul class="filter-list">
+
+            <li class="filter-item">
+              <button class="active" data-filter-btn>All</button>
+            </li>
+            
+          
+          </ul>
+
+          <div class="filter-select-box">
+
+            <button class="filter-select" data-select>
+
+              <div class="select-value" data-select-value>All Week Progress</div>
+
+              <div class="select-icon">
+                <ion-icon name="chevron-down"></ion-icon>
+              </div>
+
+            </button>
+
+            <ul class="select-list">
+
+              <li class="select-item">
+                <button data-select-item>All</button>
+              </li>
+
+            </ul>
+
+          </div>
+
+          <ul id="journalmain"  class="about-text">
+
+                <li >
+                  <details>
+                    <summary>Week 1</summary>
+                      <ol class="inlist">
+                          <br>
+                          <details> 
+                            <summary>Module 1</summary>
+                            <li>1] History of Java Programming Language</li>
+                            <li>2] Applications of Java Programming Language</li>
+                          </details>
+                          <br><br><br><br>
+                          <details>
+                            <summary>Module 2</summary>
+                              <li>3] Features of Java Programming Language</li>
+                              <li>4] Basics of Java</li>
+                          </details>
+                          <br>
+                      </ol>
+                  </details>
+              </li>
+
+              <li >
+                <details>
+                  <summary>Week 2</summary>
+                  <ol class="inlist">
+                    <br>
+                    <details> 
+                      <summary>Module 1</summary>
+                      <li>1] History of Java Programming Language</li>
+                      <li>2] Applications of Java Programming Language</li>
+                    </details>
+                    <br><br><br><br>
+                    <details>
+                      <summary>Module 2</summary>
+                        <li>3] Features of Java Programming Language</li>
+                        <li>4] Basics of Java</li>
+                    </details>
+                    <br>
+                </ol>
+                </details>
+              </li>
+
+              <li >
+                <details>
+                  <summary>Week 3</summary>
+                  <ol class="inlist">
+                    <br>
+                    <details> 
+                      <summary>Module 1</summary>
+                      <li>1] History of Java Programming Language</li>
+                      <li>2] Applications of Java Programming Language</li>
+                    </details>
+                    <br><br><br><br>
+                    <details>
+                      <summary>Module 2</summary>
+                        <li>3] Features of Java Programming Language</li>
+                        <li>4] Basics of Java</li>
+                    </details>
+                    <br>
+                </ol>
+                </details>
+              </li>
+
+ 
+
+              <li >
+                <details>
+                  <summary>Week 4</summary>
+                  <ol class="inlist">
+                    <br>
+                    <details> 
+                      <summary>Module 1</summary>
+                      <li>1] History of Java Programming Language</li>
+                      <li>2] Applications of Java Programming Language</li>
+                    </details>
+                    <br><br><br><br>
+                    <details>
+                      <summary>Module 2</summary>
+                        <li>3] Features of Java Programming Language</li>
+                        <li>4] Basics of Java</li>
+                    </details>
+                    <br>
+                </ol>
+                </details>
+              </li>
+
+
+              <li >
+                <details>
+                  <summary>Week 5</summary>
+                  <ol class="inlist">
+                    <br>
+                    <details> 
+                      <summary>Module 1</summary>
+                      <li>1] History of Java Programming Language</li>
+                      <li>2] Applications of Java Programming Language</li>
+                    </details>
+                    <br><br><br><br>
+                    <details>
+                      <summary>Module 2</summary>
+                        <li>3] Features of Java Programming Language</li>
+                        <li>4] Basics of Java</li>
+                    </details>
+                    <br>
+                </ol>
+                </details>
+              </li>
+
+     
+
+              <li >
+                <details>
+                  <summary>Week 6</summary>
+                  <ol class="inlist">
+                    <br>
+                    <details> 
+                      <summary>Module 1</summary>
+                      <li>1] History of Java Programming Language</li>
+                      <li>2] Applications of Java Programming Language</li>
+                    </details>
+                    <br><br><br><br>
+                    <details>
+                      <summary>Module 2</summary>
+                        <li>3] Features of Java Programming Language</li>
+                        <li>4] Basics of Java</li>
+                    </details>
+                    <br>
+                </ol>
+                </details>
+              </li>
+
+      
+
+              <li >
+                <details>
+                  <summary>Week 7</summary>
+                  <ol class="inlist">
+                    <br>
+                    <details> 
+                      <summary>Module 1</summary>
+                      <li>1] History of Java Programming Language</li>
+                      <li>2] Applications of Java Programming Language</li>
+                    </details>
+                    <br><br><br><br>
+                    <details>
+                      <summary>Module 2</summary>
+                        <li>3] Features of Java Programming Language</li>
+                        <li>4] Basics of Java</li>
+                    </details>
+                    <br>
+                </ol>
+                </details>
+              </li>
+
+
+
+              <li >
+                <details>
+                  <summary>Week 8</summary>
+                  <ol class="inlist">
+                    <br>
+                    <details> 
+                      <summary>Module 1</summary>
+                      <li>1] History of Java Programming Language</li>
+                      <li>2] Applications of Java Programming Language</li>
+                    </details>
+                    <br><br><br><br>
+                    <details>
+                      <summary>Module 2</summary>
+                        <li>3] Features of Java Programming Language</li>
+                        <li>4] Basics of Java</li>
+                    </details>
+                    <br>
+                </ol>
+                </details>
+              </li>
+
+    
+
+              <li >
+                <details>
+                  <summary>Week 7</summary>
+                  <ol class="inlist">
+                    <br>
+                    <details> 
+                      <summary>Module 1</summary>
+                      <li>1] History of Java Programming Language</li>
+                      <li>2] Applications of Java Programming Language</li>
+                    </details>
+                    <br><br><br><br>
+                    <details>
+                      <summary>Module 2</summary>
+                        <li>3] Features of Java Programming Language</li>
+                        <li>4] Basics of Java</li>
+                    </details>
+                    <br>
+                </ol>
+                </details>
+              </li>
+
+  
+
+              <li >
+                <details>
+                  <summary>Week 8</summary>
+                  <ol class="inlist">
+                    <br>
+                    <details> 
+                      <summary>Module 1</summary>
+                      <li>1] History of Java Programming Language</li>
+                      <li>2] Applications of Java Programming Language</li>
+                    </details>
+                    <br><br><br><br>
+                    <details>
+                      <summary>Module 2</summary>
+                        <li>3] Features of Java Programming Language</li>
+                        <li>4] Basics of Java</li>
+                    </details>
+                    <br>
+                </ol>
+                </details>
+              </li>
+
+       
+
+              <li >
+                <details>
+                  <summary>Week 9</summary>
+                  <ol class="inlist">
+                    <br>
+                    <details> 
+                      <summary>Module 1</summary>
+                      <li>1] History of Java Programming Language</li>
+                      <li>2] Applications of Java Programming Language</li>
+                    </details>
+                    <br><br><br><br>
+                    <details>
+                      <summary>Module 2</summary>
+                        <li>3] Features of Java Programming Language</li>
+                        <li>4] Basics of Java</li>
+                    </details>
+                    <br>
+                </ol>
+                </details>
+              </li>
+
+     
+
+              <li >
+                <details>
+                  <summary>Week 10</summary>
+                  <ol class="inlist">
+                    <br>
+                    <details> 
+                      <summary>Module 1</summary>
+                      <li>1] History of Java Programming Language</li>
+                      <li>2] Applications of Java Programming Language</li>
+                    </details>
+                    <br><br><br><br>
+                    <details>
+                      <summary>Module 2</summary>
+                        <li>3] Features of Java Programming Language</li>
+                        <li>4] Basics of Java</li>
+                    </details>
+                    <br>
+                </ol>
+                </details>
+              </li>
+
+          </ul>
+
+        </section>
+
+      </article>
+
+
+      <!--
+        - # About Me
+      -->
+
+      <article class="aboutme" data-page="about">
+
+        <section class="about-posts">
+
+          <header>
+            <h2 class="h2 article-title">About Myself</h2>
+          </header>
+  
+          <section class="about-text">
+            <p>
+              I'm innovative and enthusiastic Information Technology student from London who wants to learn more abour computer science and relevant subjects
+              in order to develop better career in programming industry.
+            </p>
+  
+            <p>
+              I have excelled myself as an incredible problem-solver and a technical expert, who is able to design, develop, and maintain complex application code with a strong understanding of programming languages, algorithms, and data structures with optimized and better quality of code and performance.
+  
+              I am comfortable working on open source projects of Python, Java and Frontend development. Additionally, I want to learn and earn as freelancer
+              
+              Whether I am working on a new product, improving existing code, or fixing bugs,I am always striving to improve the user experience and make Applications more efficient and scalable.
+              
+            
+            </p>
+  
+            <p>
+              I constantly prefer learning new technologies, and staying up-to-date with industry trends and best practices. My curiosities turned me into an unstoppable programmer.
+              
+              My greatest strength is to help others to solve their technical problems. I strongly believe in open-source development and contribution. 
+            </p>
+          </section>
+         
+        </section>
+
+      </article>
+
+
+
+
+
+      <!--
+        - #CONTACT
+      -->
+
+      <article class="contact" data-page="contact">
+
+        <header>
+          <h2 class="h2 article-title">Contact Me</h2>
+        </header>
+        <div id="wrapper-9cd199b9cc5410cd3b1ad21cab2e54d3">
+        <div id="map-9cd199b9cc5410cd3b1ad21cab2e54d3"></div>
+        <script>(function () {
+          var setting = {"height":540,"width":803,"zoom":16,"queryString":"University of West London, Saint Mary's Road, London, UK","place_id":"ChIJ_V1cA_MNdkgROBTyzDQjL0I","satellite":false,"centerCoord":[51.50700327055138,-0.30406450000001417],"cid":"0x422f2334ccf21438","lang":"en","cityUrl":"/uk/london","cityAnchorText":"Map of London, England, United Kingdom","id":"map-9cd199b9cc5410cd3b1ad21cab2e54d3","embed_id":"929625"};
+          var d = document;
+          var s = d.createElement('script');
+          s.src = 'https://1map.com/js/script-for-user.js?embed_id=929625';
+          s.async = true;
+          s.onload = function (e) {
+            window.OneMap.initMap(setting)
+          };
+          var to = d.getElementsByTagName('script')[0];
+          to.parentNode.insertBefore(s, to);
+        })();</script>
+        <a href="https://1map.com/map-embed">1 Map</a></div>
+
+        <br><br>
+
+        <hr>
+
+        <br>
+      
+
+        <section id="contactmenow" class="contact-form">
+
+          <h3 class="h3 form-title">Contact Form</h3>
+
+          <form action="#" class="form" data-form>
+
+            <div class="input-wrapper">
+              <input type="text" name="fullname" class="form-input" placeholder="Full name" required data-form-input>
+              
+              <input type="text" name="address" class="form-input" placeholder="Address" required data-form-input>
+
+              <input type="text" pattern="[0-9]{11}" name="contact_no" minlength="11" maxlength="11" class="form-input" placeholder="Contact no" required data-form-input>
+
+              <input type="email" name="email" class="form-input" placeholder="Email address" required data-form-input>
+            </div>
+
+            <textarea name="message" class="form-input" placeholder="Your Message" required data-form-input></textarea>
+            
+            <button style="float:right;margin-left:10px;" class="form-btn" type="button" onclick="clearFormData()">
+              <ion-icon name="backspace-outline"></ion-icon>
+              <span>Reset</span>
+            </button>
+
+            <a  href="mailto:rushisavaliya573@gmail.com?subject=I would like to connect&body=I am quite impressed with your portfolio and would like to interact. I would like to know more and connect with you to discuss business deals if there is any chance.Let's talk.">
+            <button class="form-btn" type="button" disabled data-form-btn>
+              <ion-icon name="paper-plane"></ion-icon>
+              <span>Send Message</span>
+            </button>
+             </a>
+
+          </form>
+
+        </section>
+
+      </article>
+
+    </div>
+
+  </main>
+
+
+
+
+
+
+  <!--
+    - custom js link
+  -->
+  <script src="./assets/js/script.js"></script>
+
+  <!--
+    - ionicon link
+  -->
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+</body>
+
+</html>
