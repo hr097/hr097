@@ -10,33 +10,34 @@
     <link rel="icon" type="image/x-icon" href="./assets/Icons/HR_Logo-removebg-preview.png">
   </head>
   <body>
+    <video class="bg-video" src="assets/bg-space.mp4" autoplay loop muted playsinline></video>
+    <div class="bg-overlay"></div>
     <nav id="desktop-nav">
       <!-- <div class="logo">Welcome to My Portfolio</div>  -->
       <div>
         <ul class="nav-links">
-          <li><a href="#projects"> Projects</a></li>
+          <li><a href="#projects">Projects</a></li>
           <li><a href="#experience">Experience</a></li>
           <li><a href="#about">About Me</a></li>
           <li><a href="#contact">Connect</a></li>
         </ul>
       </div>
     </nav>
-    <nav id="hamburger-nav"> 
-     <!-- <div class="logo">Welcome to My Portfolio</div>  -->
+    
+    <nav id="mobile-nav">
       <div class="hamburger-menu">
         <div class="hamburger-icon" onclick="toggleMenu()">
           <span></span>
           <span></span>
           <span></span>
         </div>
-        <div class="menu-links">
-          <li><a href="#about" onclick="toggleMenu()">About</a></li>
-          <li><a href="#experience" onclick="toggleMenu()">Experience</a></li>
-          <li><a href="#projects" onclick="toggleMenu()">Projects</a></li>
-          <li><a href="#contact" onclick="toggleMenu()">Contact</a></li>
+        <div class="mobile-menu-links">
+          <a href="#projects" onclick="toggleMenu()">Projects</a>
+          <a href="#experience" onclick="toggleMenu()">Experience</a>
+          <a href="#about" onclick="toggleMenu()">About Me</a>
+          <a href="#contact" onclick="toggleMenu()">Connect</a>
         </div>
       </div>
-   
     </nav>
     <section id="profile">
       <div class="section__pic-container">
@@ -45,7 +46,7 @@
       <div class="section__text">
         <h2 class="section__text__p1">Hello 🤝🏻 , I'm</h2>
         <h1 class="title">Harshil Ramani</h1>
-        <Software style="font-family: 'SF Pro SemiBold';margin-top:0px;" class="section__text__p2"> Software Engineer 👨🏻‍💻 | DevOps Enthusiast ♾️ | Active Learner 🚀 </p>
+        <Software style="font-family: 'SF Pro SemiBold';margin-top:0px;" class="section__text__p2"> Software Engineer 👨🏻‍💻 | DevOps Enthusiast ♾️ | Active AI./M.L 🤖 Learner 🚀 </p>
         <p class="section__text__p3"> Melbourne, Australia 🇦🇺 </p>
         <div class="btn-container">
           <button
@@ -95,34 +96,42 @@
           <div class="about-containers">
             <div class="details-container">
               <img
-                src="./assets/experience.png"
+                src="./assets/experience-colorful.png"
                 alt="Experience icon"
                 class="icon"
               />
               <h3>Experience</h3>
-              <h4  class="section__text__p4">3+ Years <br />in Software Design, Development and Deployment along with Robust,Scable and Secure Back-end Services (API's) Development, 1+ Years Database,System Architcture Design and DevOps Engineering</h4>
+              <h4  class="section__text__p4">3+ Years <br />
+                in Software Design, Development and Deployment along with Robust,
+                 Secure and Scable Back-end Infrastsucure Services (API's)
+                  Development, <hr> Expert advise in Relational/NoSQL Database Architecture Design 
+                  and Scalable Systems Engineering
+                  <hr> 1+ Years in AWS Cloud Services Deployment  and DevOps 
+                  Engineering (CI/CD Pipelines,Automation Deployment Tools)</h4>
             </div>
             <div class="details-container">
               <img
-                src="./assets/education.png"
+                src="./assets/education-colorful.png"
                 alt="Education icon"
                 class="icon"
               />
               <h3>Education</h3>
-                <h4 class="section__text__p4" > M.Sc.(Cyber Security) in Information Technology and Systems From Victorian Institute of Technology, Melbourne, Australia (2023-2025) Grade: 'N/A'
+                <h4 class="section__text__p4" > M.Sc. in IT & Systems (Cyber Security) From Victorian Institute of Technology, Melbourne, Australia <br> Year: (2023-2025) <br> Grade: 'N/A'
                 <hr> 
                 B.Sc. in Inforamtion Technology
-                From Veer Narmad South Gujarat University (2020-2023) GRADE: 'A+' </h4>
+                From Veer Narmad South Gujarat University <br> Year: (2020-2023) <br> GRADE: 'A+' </h4>
             </div>
               <div class="details-container">
               <img
-                src="./assets/experience.png"
+                src="./assets/experience-colorful.png"
                 alt="Experience icon"
                 class="icon"
               />
               <h3>Area of Interest & Learning</h3>
-              <h4 class="section__text__p4">Artificial Intelligence & Machine Learning, LLM-Neural Networks,
-                Cloud Technologies, Smart Automations</h4>
+              <h4 class="section__text__p4">Artificial Intelligence & Machine Learning Powered 
+                Smart Solutions Development, <hr> Small and Micro Scale LLM-Neural Networks Architecture Design,
+                AWS/GCP/AZURE Cloud Services Deployment, <hr> Budget Friendly
+                Smart Automation Systems with IoT and Embedded Systems</h4>
             </div>
 
           </div>
@@ -144,7 +153,7 @@ Let’s connect and talk tech—I’d love to hear about your work and explore a
         </div>
       </div>
       <img
-        src="./assets/arrow.png"
+        src="./assets/arrow-colorful.png"
         alt="Arrow icon"
         class="icon arrow"
         onclick="location.href='./#experience'"
@@ -160,7 +169,7 @@ Let’s connect and talk tech—I’d love to hear about your work and explore a
             <div class="article-container">
               <article>
                 <img
-                  src="./assets/checkmark.png"
+                  src="./assets/checkmark-colorful.png"
                   alt="Experience icon"
                   class="icon"
                 />
@@ -171,7 +180,7 @@ Let’s connect and talk tech—I’d love to hear about your work and explore a
               </article>
               <article>
                 <img
-                  src="./assets/checkmark.png"
+                  src="./assets/checkmark-colorful.png"
                   alt="Experience icon"
                   class="icon"
                 />
@@ -182,7 +191,7 @@ Let’s connect and talk tech—I’d love to hear about your work and explore a
               </article>
               <article>
                 <img
-                  src="./assets/checkmark.png"
+                  src="./assets/checkmark-colorful.png"
                   alt="Experience icon"
                   class="icon"
                 />
@@ -193,7 +202,7 @@ Let’s connect and talk tech—I’d love to hear about your work and explore a
               </article>
               <article>
                 <img
-                  src="./assets/checkmark.png"
+                  src="./assets/checkmark-colorful.png"
                   alt="Experience icon"
                   class="icon"
                 />
@@ -204,7 +213,7 @@ Let’s connect and talk tech—I’d love to hear about your work and explore a
               </article>
               <article>
                 <img
-                  src="./assets/checkmark.png"
+                  src="./assets/checkmark-colorful.png"
                   alt="Experience icon"
                   class="icon"
                 />
@@ -215,7 +224,7 @@ Let’s connect and talk tech—I’d love to hear about your work and explore a
               </article>
               <article>
                 <img
-                  src="./assets/checkmark.png"
+                  src="./assets/checkmark-colorful.png"
                   alt="Experience icon"
                   class="icon"
                 />
@@ -231,7 +240,7 @@ Let’s connect and talk tech—I’d love to hear about your work and explore a
             <div class="article-container">
               <article>
                 <img
-                  src="./assets/checkmark.png"
+                  src="./assets/checkmark-colorful.png"
                   alt="Experience icon"
                   class="icon"
                 />
@@ -242,7 +251,7 @@ Let’s connect and talk tech—I’d love to hear about your work and explore a
               </article>
               <article>
                 <img
-                  src="./assets/checkmark.png"
+                  src="./assets/checkmark-colorful.png"
                   alt="Experience icon"
                   class="icon"
                 />
@@ -253,7 +262,7 @@ Let’s connect and talk tech—I’d love to hear about your work and explore a
               </article>
               <article>
                 <img
-                  src="./assets/checkmark.png"
+                  src="./assets/checkmark-colorful.png"
                   alt="Experience icon"
                   class="icon"
                 />
@@ -264,7 +273,7 @@ Let’s connect and talk tech—I’d love to hear about your work and explore a
               </article>
               <article>
                 <img
-                  src="./assets/checkmark.png"
+                  src="./assets/checkmark-colorful.png"
                   alt="Experience icon"
                   class="icon"
                 />
@@ -275,7 +284,7 @@ Let’s connect and talk tech—I’d love to hear about your work and explore a
               </article>
                             <article>
                 <img
-                  src="./assets/checkmark.png"
+                  src="./assets/checkmark-colorful.png"
                   alt="Experience icon"
                   class="icon"
                 />
@@ -286,7 +295,7 @@ Let’s connect and talk tech—I’d love to hear about your work and explore a
               </article>
                             <article>
                 <img
-                  src="./assets/checkmark.png"
+                  src="./assets/checkmark-colorful.png"
                   alt="Experience icon"
                   class="icon"
                 />
@@ -303,7 +312,7 @@ Let’s connect and talk tech—I’d love to hear about your work and explore a
             <div class="article-container">
               <article>
                 <img
-                  src="./assets/checkmark.png"
+                  src="./assets/checkmark-colorful.png"
                   alt="Experience icon"
                   class="icon"
                 />
@@ -314,7 +323,7 @@ Let’s connect and talk tech—I’d love to hear about your work and explore a
               </article>
               <article>
                 <img
-                  src="./assets/checkmark.png"
+                  src="./assets/checkmark-colorful.png"
                   alt="Experience icon"
                   class="icon"
                 />
@@ -325,7 +334,7 @@ Let’s connect and talk tech—I’d love to hear about your work and explore a
               </article>
               <article>
                 <img
-                  src="./assets/checkmark.png"
+                  src="./assets/checkmark-colorful.png"
                   alt="Experience icon"
                   class="icon"
                 />
@@ -336,7 +345,7 @@ Let’s connect and talk tech—I’d love to hear about your work and explore a
               </article>
               <article>
                 <img
-                  src="./assets/checkmark.png"
+                  src="./assets/checkmark-colorful.png"
                   alt="Experience icon"
                   class="icon"
                 />
@@ -347,7 +356,7 @@ Let’s connect and talk tech—I’d love to hear about your work and explore a
               </article>
                 <article>
                 <img
-                  src="./assets/checkmark.png"
+                  src="./assets/checkmark-colorful.png"
                   alt="Experience icon"
                   class="icon"
                 />
@@ -358,7 +367,7 @@ Let’s connect and talk tech—I’d love to hear about your work and explore a
               </article>
                             <article>
                 <img
-                  src="./assets/checkmark.png"
+                  src="./assets/checkmark-colorful.png"
                   alt="Experience icon"
                   class="icon"
                 />
@@ -373,7 +382,7 @@ Let’s connect and talk tech—I’d love to hear about your work and explore a
         </div>
       </div>
       <img
-        src="./assets/arrow.png"
+        src="./assets/arrow-colorful.png"
         alt="Arrow icon"
         class="icon arrow"
         onclick="location.href='./#projects'"
@@ -459,7 +468,7 @@ Let’s connect and talk tech—I’d love to hear about your work and explore a
         </div>
       </div>
       <img
-        src="./assets/arrow.png"
+        src="./assets/arrow-colorful.png"
         alt="Arrow icon"
         class="icon arrow"
         onclick="location.href='./#contact'"
@@ -471,7 +480,7 @@ Let’s connect and talk tech—I’d love to hear about your work and explore a
       <div   class="section__text__p3 contact-info-upper-container">
         <div class="contact-info-container">
           <img
-            src="./assets/email.png"
+            src="./assets/email-colorful.png"
             alt="Email icon"
             class="icon contact-icon email-icon"
           />
