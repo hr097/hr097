@@ -11,7 +11,7 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: 'SF Pro SemiBold', sans-serif;
+  font-family: 'Trirong', serif;
 }
 
 body {
@@ -20,7 +20,7 @@ body {
   position: relative;
   min-height: 100vh;
   overflow-x: hidden;
-  font-family: 'SF Pro SemiBold', sans-serif;
+  font-family: 'Trirong', serif;
 }
 
 /* Animated Space Background */
@@ -102,7 +102,7 @@ body {
 
 html {
   scroll-behavior: smooth;
-  font-family: 'SF Pro SemiBold', sans-serif;
+  font-family: 'Trirong', serif;
 }
 
 p {
@@ -135,7 +135,7 @@ nav {
   gap: 2rem;
   list-style: none;
   font-size: 1.5rem;
-  font-family: 'SF Pro SemiBold';
+  font-family: 'Trirong', serif;
   font-weight: bold;
   flex-wrap: wrap;
   justify-content: center;
@@ -329,7 +329,7 @@ article .icon:hover {
   color: rgb(255, 252, 252);
   text-decoration: none;
   font-size: 1.5rem;
-  font-family: 'SF Pro SemiBold';
+  font-family: 'Trirong', serif;
   font-weight: bold;
   padding: 1rem 2rem;
   border-radius: 10px;
