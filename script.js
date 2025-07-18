@@ -31,3 +31,19 @@ document.addEventListener('keydown', function(event) {
     }
   }
 });
+
+// Scroll-based entrance animations
+function animateOnScroll() {
+  const animatedEls = document.querySelectorAll('.animate-on-scroll, .animate-left, .animate-right, .animate-scale');
+  const observer = new window.IntersectionObserver((entries, observer) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('animate');
+        observer.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.15 });
+  animatedEls.forEach(el => observer.observe(el));
+}
+
+document.addEventListener('DOMContentLoaded', animateOnScroll);
