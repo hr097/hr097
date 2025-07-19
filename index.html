@@ -70,23 +70,23 @@
             Contact Info
           </button>
         </div>
-        <div id="socials-container">
+        <div id="socials-container" >
           <img
             src="./assets/icons/linkedin2-Photoroom.png"
             alt="My LinkedIn profile"
-            class="icon"
+            class="icon icon-glow"
             onclick="location.href='https://www.linkedin.com/in/harshil-ramani-2b528920b/'"
           />
           <img
             src="./assets/icons/LeetCode_logo_black2.png"
             alt="My LeetCode profile"
-            class="icon"
+            class="icon icon-glow"
             onclick="location.href='https://leetcode.com/u/hr097/'"
           />
           <img
             src="./assets/icons/github.png"
             alt="My Github profile"
-            class="icon"
+            class="icon icon-glow"
             onclick="location.href='https://github.com/hr097'"
           />
 
@@ -282,58 +282,40 @@
       <p class="section__text__p1 animate-on-scroll">Professional Experience</p>
       <h1 class="title animate-on-scroll">Work Experience</h1>
       <div class="experience-details-container">
-        <div class="about-containers">
-          <div class="details-container animate-on-scroll">
-            <h2 class="experience-sub-title">Software Developer & DevOps Intern</h2>
-            <div class="article-container">
-              <article>
-                <img src="./assets/icons/weetech.png" alt="WeeTech Solution Logo" class="icon company-logo" />
-                <div>
-                  <h3>WeeTech Solution</h3>
-                  <p>Mar 2023 - Oct 2023 | India</p>
-                  <ul class="experience-description">
-                    <li>Built CI/CD pipelines using Bash & Python, deploying to AWS, Vercel, and Render.</li>
-                    <li>Reduced manual deployment effort by 40% through automation.</li>
-                    <li>Used Docker, Kubernetes, and Prometheus for containerization and monitoring.</li>
-                    <li>Collaborated with senior developers and gained hands-on experience with Jira, Trello, MS Teams.</li>
-                  </ul>
-                </div>
-              </article>
+        <div class="experience-card animate-on-scroll">
+          <div class="experience-header">
+            <img src="./assets/weetech.jpeg" alt="WeeTech Solution Logo" class="company-logo" />
+            <div class="experience-info">
+              <h3>Software Developer & DevOps Intern</h3>
+              <p class="company-name">WeeTech Solution</p>
+              <p class="experience-date">Mar 2023 - Oct 2023</p>
             </div>
           </div>
-          <div class="details-container animate-on-scroll">
-            <h2 class="experience-sub-title">Software Developer (Backend Services)</h2>
-            <div class="article-container">
-              <article>
-                <img src="./assets/icons/skybit.png" alt="SkyBit Solutions Logo" class="icon company-logo" />
-                <div>
-                  <h3>SkyBit Solutions</h3>
-                  <p>Dec 2021 – Dec 2022 | India</p>
-                  <ul class="experience-description">
-                    <li>Developed backend features using PHP, Node.js, and ASP.NET MVC.</li>
-                    <li>Built strong foundations in OOP and core software development principles.</li>
-                    <li>Promoted to Junior Software Developer for consistent growth and contributions.</li>
-                  </ul>
-                </div>
-              </article>
+          <p class="experience-description">Built CI/CD pipelines using Bash & Python, deploying to AWS, Vercel, and Render, reducing manual deployment effort by 40% through automation.</p>
+        </div>
+        
+        <div class="experience-card animate-on-scroll">
+          <div class="experience-header">
+            <img src="./assets/skybitsolutions_logo.jpeg" alt="SkyBit Solutions Logo" class="company-logo" />
+            <div class="experience-info">
+              <h3>Software Developer (Backend Services)</h3>
+              <p class="company-name">SkyBit Solutions</p>
+              <p class="experience-date">Dec 2021 – Dec 2022</p>
             </div>
           </div>
-          <div class="details-container animate-on-scroll">
-            <h2 class="experience-sub-title">Computer Science - Subject Matter Expert</h2>
-            <div class="article-container">
-              <article>
-                <img src="./assets/icons/chegg.png" alt="Chegg Logo" class="icon company-logo" />
-                <div>
-                  <h3>Chegg Pvt Ltd</h3>
-                  <p>Feb 2022 – Mar 2022 | India</p>
-                  <ul class="experience-description">
-                    <li>Solved 100+ Computer Science problems and authored 10+ tutorials on core topics.</li>
-                    <li>Mentored 1000+ students in languages and systems fundamentals.</li>
-                  </ul>
-                </div>
-              </article>
+          <p class="experience-description">Developed backend features using PHP, Node.js, and ASP.NET MVC, building strong foundations in OOP and core software development principles.</p>
+        </div>
+        
+        <div class="experience-card animate-on-scroll">
+          <div class="experience-header">
+            <img src="./assets/icons/chegg.png" alt="Chegg Logo" class="company-logo" />
+            <div class="experience-info">
+              <h3>Computer Science - Subject Matter Expert</h3>
+              <p class="company-name">Chegg Pvt Ltd</p>
+              <p class="experience-date">Feb 2022 – Mar 2022</p>
             </div>
           </div>
+          <p class="experience-description">Solved 100+ Computer Science problems and authored 10+ tutorials on core topics, mentoring 1000+ students in languages and systems fundamentals.</p>
         </div>
       </div>
       <img
@@ -346,7 +328,7 @@
     <section id="projects">
       <p class="section__text__p1 animate-on-scroll">Browse My Recent</p>
       <h1 class="title animate-on-scroll">Projects</h1>
-      <div class="experience-details-container">
+      <div class="projects-details-container">
         <div class="about-containers">
           <div class="details-container color-container animate-on-scroll">
             <div class="article-container">

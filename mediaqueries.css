@@ -69,7 +69,7 @@
   nav {
     height: auto;
     min-height: 12vh;
-    padding: 1rem 0.5rem;
+    padding: 1rem 1rem;
   }
   
   .nav-links {
@@ -148,7 +148,7 @@
   nav {
     height: auto;
     min-height: 15vh;
-    padding: 1.5rem 0.5rem;
+    padding: 1.5rem 1rem;
   }
   
   .nav-links {
