@@ -23,7 +23,7 @@ body {
   font-family: 'Trirong', serif;
 }
 
-/* Animated Space Background */
+/* Animated Black Background with Falling Stars */
 .animated-bg {
   position: fixed;
   top: 0;
@@ -32,9 +32,8 @@ body {
   height: 100vh;
   z-index: -2;
   pointer-events: none;
-  background: linear-gradient(45deg, #0a0a2e, #16213e, #0f3460, #533483);
-  background-size: 400% 400%;
-  animation: gradientShift 15s ease infinite;
+  background: #000000;
+  overflow: hidden;
 }
 
 .stars {
