@@ -378,7 +378,7 @@ section {
 }
 
 .icon-glow{
-  filter: drop-shadow(0 0 8px #FFD700) drop-shadow(0 0 2px #FFF8DC);
+  filter: drop-shadow(0 0 8px #b3b3b3) drop-shadow(0 0 2px #FFF8DC);
   border-radius: 12px;
   background: transparent;
 }
