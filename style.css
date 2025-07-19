@@ -44,7 +44,7 @@ body {
   height: 100%;
   background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000"><circle cx="100" cy="100" r="1.5" fill="white"/><circle cx="300" cy="200" r="1" fill="white"/><circle cx="500" cy="150" r="2" fill="white"/><circle cx="700" cy="300" r="1.5" fill="white"/><circle cx="900" cy="250" r="1" fill="white"/><circle cx="200" cy="400" r="2" fill="white"/><circle cx="400" cy="350" r="1.5" fill="white"/><circle cx="600" cy="450" r="1" fill="white"/><circle cx="800" cy="400" r="2" fill="white"/><circle cx="150" cy="600" r="1.5" fill="white"/><circle cx="350" cy="550" r="1" fill="white"/><circle cx="550" cy="650" r="2" fill="white"/><circle cx="750" cy="600" r="1.5" fill="white"/><circle cx="950" cy="700" r="1" fill="white"/><circle cx="250" cy="800" r="2" fill="white"/><circle cx="450" cy="750" r="1.5" fill="white"/><circle cx="650" cy="850" r="1" fill="white"/><circle cx="850" cy="800" r="2" fill="white"/><circle cx="50" cy="900" r="1.5" fill="white"/><circle cx="300" cy="950" r="1" fill="white"/><circle cx="500" cy="900" r="2" fill="white"/><circle cx="700" cy="950" r="1.5" fill="white"/><circle cx="900" cy="900" r="1" fill="white"/><circle cx="120" cy="120" r="1.5" fill="rgba(255,255,255,0.8)"/><circle cx="320" cy="220" r="1" fill="rgba(255,255,255,0.6)"/><circle cx="520" cy="170" r="2" fill="rgba(255,255,255,0.8)"/><circle cx="720" cy="320" r="1.5" fill="rgba(255,255,255,0.6)"/><circle cx="920" cy="270" r="1" fill="rgba(255,255,255,0.8)"/><circle cx="220" cy="420" r="2" fill="rgba(255,255,255,0.6)"/><circle cx="420" cy="370" r="1.5" fill="rgba(255,255,255,0.8)"/><circle cx="620" cy="470" r="1" fill="rgba(255,255,255,0.6)"/><circle cx="820" cy="420" r="2" fill="rgba(255,255,255,0.8)"/><circle cx="170" cy="620" r="1.5" fill="rgba(255,255,255,0.6)"/><circle cx="370" cy="570" r="1" fill="rgba(255,255,255,0.8)"/><circle cx="570" cy="670" r="2" fill="rgba(255,255,255,0.6)"/><circle cx="770" cy="620" r="1.5" fill="rgba(255,255,255,0.8)"/><circle cx="970" cy="720" r="1" fill="rgba(255,255,255,0.6)"/><circle cx="270" cy="820" r="2" fill="rgba(255,255,255,0.8)"/><circle cx="470" cy="770" r="1.5" fill="rgba(255,255,255,0.6)"/><circle cx="670" cy="870" r="1" fill="rgba(255,255,255,0.8)"/><circle cx="870" cy="820" r="2" fill="rgba(255,255,255,0.6)"/><circle cx="70" cy="920" r="1.5" fill="rgba(255,255,255,0.8)"/><circle cx="320" cy="970" r="1" fill="rgba(255,255,255,0.6)"/><circle cx="520" cy="920" r="2" fill="rgba(255,255,255,0.8)"/><circle cx="720" cy="970" r="1.5" fill="rgba(255,255,255,0.6)"/><circle cx="920" cy="920" r="1" fill="rgba(255,255,255,0.8)"/></svg>') repeat top center;
   background-size: 800px 800px;
-  animation: move-stars 100s linear infinite;
+  animation: falling-stars 20s linear infinite;
 }
 
 .twinkling {
@@ -59,14 +59,7 @@ body {
 }
 
 .clouds {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000"><ellipse cx="200" cy="200" rx="120" ry="40" fill="rgba(100,100,255,0.15)"/><ellipse cx="600" cy="300" rx="100" ry="35" fill="rgba(100,100,255,0.15)"/><ellipse cx="400" cy="500" rx="140" ry="45" fill="rgba(100,100,255,0.15)"/><ellipse cx="800" cy="600" rx="110" ry="38" fill="rgba(100,100,255,0.15)"/><ellipse cx="300" cy="800" rx="130" ry="42" fill="rgba(100,100,255,0.15)"/><ellipse cx="700" cy="400" rx="90" ry="30" fill="rgba(100,100,255,0.15)"/><ellipse cx="500" cy="700" rx="115" ry="37" fill="rgba(100,100,255,0.15)"/><ellipse cx="900" cy="500" rx="105" ry="33" fill="rgba(100,100,255,0.15)"/></svg>') repeat top center;
-  background-size: 800px 800px;
-  animation: move-clouds 80s linear infinite;
+  display: none;
 }
 
 @keyframes gradientShift {
@@ -75,9 +68,13 @@ body {
   100% { background-position: 0% 50%; }
 }
 
-@keyframes move-stars {
-  from { background-position: 0 0; }
-  to { background-position: 800px 0; }
+@keyframes falling-stars {
+  from { 
+    background-position: 0 -800px; 
+  }
+  to { 
+    background-position: 0 800px; 
+  }
 }
 
 @keyframes twinkle {
