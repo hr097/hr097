@@ -253,7 +253,7 @@ a:hover {
 .logo-img {
   width: 40px;
   height: 40px;
-  border-radius: 50%;
+  border-radius: 10%;
   transition: transform 0.3s ease;
 }
 
@@ -571,7 +571,7 @@ article .icon:hover {
   flex: 1;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   padding: 0 0.2em;
 }
 .about-details-container {
@@ -606,7 +606,7 @@ article .icon:hover {
 }
 
 .details-container h3 {
-  font-size: 1.35em;
+  font-size: 1.1em;
   font-weight: 700;
   color: #fff;
   margin-bottom: 1.2rem;
@@ -1081,13 +1081,13 @@ footer p {
   -webkit-backdrop-filter: blur(8px);
   border-radius: 1.5rem;
   border: 1.5px solid rgba(0,255,208,0.13);
-  padding: 2rem 1.2rem 1.5rem 1.2rem;
+  padding: 2rem 1.2rem 1rem 1.2rem;
   margin: 0 1rem 1.5rem 1rem;
   min-width: 260px;
   max-width: 370px;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: stretch;
   transition: box-shadow 0.3s, transform 0.3s;
   animation: fadeInUp 0.8s cubic-bezier(.4,1.4,.6,1) both;
 }
@@ -1104,6 +1104,16 @@ footer p {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.about-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  padding: 0 0.2em;
+  margin-bottom: 0;
 }
 
 .about-content, .arrow-list, .arrow-list li {
@@ -1148,19 +1158,24 @@ footer p {
   margin-left: 0;
   padding-left: 0;
   list-style: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
 .arrow-list li {
-  list-style-type: square;
+  list-style: none;
   position: relative;
-  margin-bottom: 0.7em;
-  padding-left: 1.1em;
+  /* margin-bottom: 1.1em; */
+  padding-left: 0;
   line-height: 1.7;
   color: #fff;
   font-size: 1.2em;
   font-weight: 400;
 }
+/* .arrow-list li:last-child {
+  margin-bottom: 0 !important;
+} */
 
-.about-content.area-interest .arrow-list li {
+.about-content .arrow-list li {
   margin-bottom: 2.2em;
 }
 .about-content.area-interest .arrow-list li:last-child {
